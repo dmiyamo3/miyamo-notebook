@@ -2,7 +2,7 @@
 
 |日付|イベント名|展示物の写真/動画リンク|展示物|内容|
 |---|---|---|---|---|
-|2019/8/18|xR Tech Tokyo #17|[懐中電灯](https://twitter.com/DMiyamo3/status/1152485407176527872)|懐中電灯|Looking GlassとRealSenseT265を用いた動的ライティングの実験|
+|2019/8/18|xR Tech Tokyo #17|<img src="https://github.com/dmiyamo3/miyamo-notebook/blob/master/images/FlashLight1.PNG" width="480"> [懐中電灯](https://twitter.com/DMiyamo3/status/1152485407176527872)|懐中電灯|Looking GlassとRealSenseT265を用いた動的ライティングの実験|
 |2019/5/25|札幌HoloLensミートアップ vol.5|<img src="https://pbs.twimg.com/media/D7Yri_EUwAAmudH.jpg" width="480">|ASKA3DBox、Looking Glass デモ、Mirage Soloを用いたAR Webブラウザ、フライアイレンズを用いた裸眼立体視デモ、Oculus Quest(自作アプリなし)|
 |2019/4/21|Looking Glass ミートアップ with #北海道VR|<img src="https://mastodon-vr.com/wp-content/uploads/miyamo.png" width="480">|Aerial Paint|ASKA3Dプレート + Real Sense T265 + Looking Glassを用いた空中お絵かきアプリ|
 |2019/4/20|xR Tech Tokyo #15|<img src="https://raw.githubusercontent.com/dmiyamo3/miyamo-notebook/master/images/mirasolo_ar.jpg" width="480">|Mirage Soloを用いたAR Webブラウザ||
