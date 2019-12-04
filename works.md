@@ -3,8 +3,9 @@
 |日付|イベント名|展示物の写真/動画リンク|展示物|内容|小話|
 |---|---|---|---|---|---|
 |---|---|---|---|---|---|
+|2019/12/1|NT札幌|<img src="https://pbs.twimg.com/media/EK9TTalVUAEL8aZ?format=jpg&name=4096x4096" width="480"> <img src="https://pbs.twimg.com/media/EK9TTaoUcAMtNqQ?format=jpg&name=4096x4096" width="480">|バーチャル懐中電灯|光がついていなくても物を照らすことのできる不思議な懐中電灯|---|
 |2019/11/16|札幌HoloLensミートアップ Vol.7 & MRGlobalBootcamp|<img src="https://pbs.twimg.com/media/EJd1eAvVUAQKwzY?format=jpg&name=4096x4096" width="480"> [一字一拳 プレイ動画](https://twitter.com/DMiyamo3/status/1195615410550276096)|VRタイピングゲーム「一字一拳」体験版|Oculus Quest用タイピングゲーム : パンチングキーボードを用いて文字入力の速さを競う|一人で楽しめる＆特殊な機材を使わない＆VRキーボード研究を兼ねた作品です。これは改良してどこかのタイミングで販売する予定です。|
-|2019/9/14|JapanVRFest 銀座VR3|<img src="https://pbs.twimg.com/media/EEY2tzsXkAUkcNq?format=jpg&name=4096x4096" width="480"> [当日の様子](https://twitter.com/search?q=%23%E9%8A%80%E5%BA%A7VR%E3%80%80%E6%87%90%E4%B8%AD%E9%9B%BB%E7%81%AF&src=typed_query&f=live)|バーチャル懐中電灯|光がついていなくても立体ディスプレイの物体を照らすことのできる不思議な懐中電灯|---|
+|2019/9/14|JapanVRFest 銀座VR3|<img src="https://pbs.twimg.com/media/EEY2tzsXkAUkcNq?format=jpg&name=4096x4096" width="480"> [当日の様子](https://twitter.com/search?q=%23%E9%8A%80%E5%BA%A7VR%E3%80%80%E6%87%90%E4%B8%AD%E9%9B%BB%E7%81%AF&src=typed_query&f=live)|バーチャル懐中電灯|光がついていなくても物を照らすことのできる不思議な懐中電灯|---|
 |2019/8/18|xR Tech Tokyo #17|<img src="https://github.com/dmiyamo3/miyamo-notebook/blob/master/images/FlashLight1.PNG" width="480"> [懐中電灯デモ](https://twitter.com/DMiyamo3/status/1152485407176527872)|懐中電灯|Looking GlassとRealSenseT265を用いた動的ライティングの実験|---|
 |2019/8/12|---|---|Looking Glass コンテンツ|Looking Glassにキャラクターを表示|某サークルに頼まれて作りました。コントローラーでカメラ位置やFOVを変えてキャラクターを閲覧できるアプリです。現場では残念ながら電源トラブルのためあまり展示できなかったようですが、その後の飲み会では好評だったようで何よりです。|
 |2019/5/25|札幌HoloLensミートアップ vol.5|<img src="https://pbs.twimg.com/media/D7Yri_EUwAAmudH.jpg" width="480">|ASKA3DBox、Looking Glass デモ、Mirage Soloを用いたAR Webブラウザ、フライアイレンズを用いた裸眼立体視デモ、Oculus Quest(自作アプリなし)||HoloLensミートアップ展示用の新しいものを作っていなかったので数でごまかしました。重かった。|
