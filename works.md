@@ -3,7 +3,7 @@
 |日付|イベント名|展示物の写真/動画リンク|展示物|内容|小話|
 |---|---|---|---|---|---|
 |---|---|---|---|---|---|
-|2020/1/26|第4回日曜数学会in札幌|<img src="https://pbs.twimg.com/media/EPMk1L3U0AAOAXB?format=jpg&name=4096x4096" width="480">|素数秒時計|素数時間に音が鳴る置き時計|[四つ子素数が鳴る瞬間、一番盛り上がりました](https://twitter.com/tsujimotter/status/1221388010618376192)|
+|2020/1/26|第4回日曜数学会in札幌|<img src="https://pbs.twimg.com/media/EPMk1L3U0AAOAXB?format=jpg&name=4096x4096" width="480">|素数秒時計 [(当日の映像)](https://twitter.com/DMiyamo3/status/1222815103919087616)|素数時間に音が鳴る置き時計|[四つ子素数が鳴る瞬間、一番盛り上がりました](https://twitter.com/tsujimotter/status/1221388010618376192)|
 |2019/12/12|AR/VR活用セミナー@北海道立総合研究機構 AR/VR体験会 [(詳細)](https://www.hro.or.jp/list/industrial/research/iri/news/19/work/201912arvr_seminar.pdf)|<img src="https://pbs.twimg.com/media/ELj9gYxU4AA_jYM?format=jpg&name=4096x4096" width="480"> [ツイート](https://twitter.com/DMiyamo3/status/1204991643281022976)|Oculus Quest ハンドトラッキングデモ、Mirage Solo ビデオシースルーデモ、Looking Glass、ASKA3Dプレート|---|道総研の方から依頼を受けてAR/VR関係で自分が好きなデバイスをひととおり持っていきました。OculusQuestのハンドトラッキングが体験できる最速のイベントになったと思います。札幌からxrkaigiにいった方や業務でVRの分野に関わりないけど興味がある方など様々な立場の人が集まる良い会でした。|
 |2019/12/1|NT札幌|<img src="https://pbs.twimg.com/media/EK9TTalVUAEL8aZ?format=jpg&name=4096x4096" width="480"> <img src="https://pbs.twimg.com/media/EK9TTaoUcAMtNqQ?format=jpg&name=4096x4096" width="480">|バーチャル懐中電灯|光がついていなくても物を照らすことのできる不思議な懐中電灯|---|
 |2019/11/16|札幌HoloLensミートアップ Vol.7 & MRGlobalBootcamp|<img src="https://pbs.twimg.com/media/EJd1eAvVUAQKwzY?format=jpg&name=4096x4096" width="480"> [一字一拳 プレイ動画](https://twitter.com/DMiyamo3/status/1195615410550276096)|VRタイピングゲーム「一字一拳」体験版|Oculus Quest用タイピングゲーム : パンチングキーボードを用いて文字入力の速さを競う|一人で楽しめる＆特殊な機材を使わない＆VRキーボード研究を兼ねた作品です。これは改良してどこかのタイミングで販売する予定です。|
