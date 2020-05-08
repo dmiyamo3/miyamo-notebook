@@ -7,10 +7,10 @@
 
 # 展示・発表など
 
-|日付|イベント名|展示物の写真/動画リンクなど|展示・発表など|内容|小話|
+|日付|イベント名|展示物の写真/動画リンク|展示・発表|内容|小話|
 |---|---|---|---|---|---|
 |---|---|---|---|---|---|
-|2020/4/22|HoloLensミートアップ@Cluster vol.1|[発表スライド](https://docs.google.com/presentation/d/1RUsZVLidcDNzVoK-y8wQG7oNiqjhm-cHcKWMlx23JRI)|一枚の人物画像から3Dモデルを生成する「PIFu」で遊んでみた話|---|スライド後半に頂点カラーのテクスチャベイクの話があります。|
+|2020/4/22|HoloLensミートアップ@Cluster vol.1|[発表スライド](https://docs.google.com/presentation/d/1RUsZVLidcDNzVoK-y8wQG7oNiqjhm-cHcKWMlx23JRI)|一枚の人物画像から3Dモデルを生成する「PIFu」で遊んでみた話|---|スライド後半に頂点カラーのテクスチャベイクの話があります。参加登録者数400人のイベントだったのでかなり緊張しました。無事終わって良かった。|
 |2020/1/26|第4回日曜数学会in札幌|<img src="https://pbs.twimg.com/media/EPMk1L3U0AAOAXB?format=jpg&name=4096x4096" width="480">|素数秒時計 [(当日の映像)](https://twitter.com/DMiyamo3/status/1222815103919087616)|素数時間に音が鳴る置き時計|[四つ子素数が鳴る瞬間、一番盛り上がりました](https://twitter.com/tsujimotter/status/1221388010618376192)|
 |2019/12/12|AR/VR活用セミナー@北海道立総合研究機構 AR/VR体験会 [(詳細)](https://www.hro.or.jp/list/industrial/research/iri/news/19/work/201912arvr_seminar.pdf)|<img src="https://pbs.twimg.com/media/ELj9gYxU4AA_jYM?format=jpg&name=4096x4096" width="480"> [ツイート](https://twitter.com/DMiyamo3/status/1204991643281022976)|Oculus Quest ハンドトラッキングデモ、Mirage Solo ビデオシースルーデモ、Looking Glass、ASKA3Dプレート|---|道総研の方から依頼を受けてAR/VR関係で自分が好きなデバイスをひととおり持っていきました。OculusQuestのハンドトラッキングが体験できる最速のイベントになったと思います。札幌からxrkaigiにいった方や業務でVRの分野に関わりないけど興味がある方など様々な立場の人が集まる良い会でした。|
 |2019/12/1|NT札幌|<img src="https://pbs.twimg.com/media/EK9TTalVUAEL8aZ?format=jpg&name=4096x4096" width="480"> <img src="https://pbs.twimg.com/media/EK9TTaoUcAMtNqQ?format=jpg&name=4096x4096" width="480">|バーチャル懐中電灯|光がついていなくても物を照らすことのできる不思議な懐中電灯|---|
